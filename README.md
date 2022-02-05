@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @GuillermoClara
-- 👀 I’m interested in Object Oriented Programming and Machine Learning
+- 👀 I’m interested in Back-end development and Machine Learning
 - 🌱 I’m currently studying Computer Science
 - 💞️ I’m looking to collaborate on software developing
 - 📫 How to reach me: guillexclara@gmail.com
