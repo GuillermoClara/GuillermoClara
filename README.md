@@ -4,7 +4,6 @@
 - 💞️ I’m looking to collaborate on software developing
 - 📫 How to reach me:  
 Email: guillexclara@gmail.com  
-Instagram: @guille.clara  
 Whatsapp: +1(470) 733-1744
 
 
