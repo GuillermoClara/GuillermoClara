@@ -1,10 +1,8 @@
+### About Me
 - 👋 Hi, I’m @GuillermoClara
-- 👀 I’m interested in Back-end development and Machine Learning
-- 🌱 I’m currently studying Computer Science
-- 💞️ I’m looking to collaborate on software developing
-- 📫 How to reach me:  
-Email: guillexclara@gmail.com  
-Whatsapp: +1(470) 733-1744
+- 👀 My main interest is Full Stack Development
+- 🌱 I’m currently studying Computer Science at Georgia State University
+- 💞️ I’m looking to collaborate on software development projects
 
 ### My Skills
 
@@ -21,6 +19,10 @@ Whatsapp: +1(470) 733-1744
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
 </p>
+
+### How to reach me
+Email: guillexclara@gmail.com  
+Whatsapp: +1(470) 733-1744
 
 <!---
 GuillermoClara/GuillermoClara is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
